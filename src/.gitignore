@@ -1,0 +1,22 @@
+
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+.vscode
+.idea
+
+lib-cov
+
+coverage
+
+build/Release
+
+# Extra folders
+node_modules
+lib
+test/support/tmp/*
+!test/support/tmp/.gitkeep
